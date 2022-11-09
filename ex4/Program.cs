@@ -13,7 +13,12 @@
 
 //метод вывода и заполнения массива
 
-int[]array = new int[8];
+//для решения задачи без магических чисел
+// Console.Clear();
+// Console.Write("Введите размер массива: ");
+// int size = Convert.ToInt32(Console.ReadLine()); 
+
+int[]array = new int[8]; //вместо цифры поставить size
 
 int[] NewArray(int[]arr)
 {

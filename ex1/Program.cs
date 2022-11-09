@@ -18,4 +18,3 @@ int SumOfNumbers(int num)
 }
 
 
-
